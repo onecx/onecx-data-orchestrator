@@ -1,0 +1,11 @@
+deployment:
+  operator: true 
+
+product:
+  info:
+    data:
+      description: "Data orchestrator"
+      imageUrl: ""
+      iconName: "palette"
+      displayName: "Data orchestrator"
+      basePath: "/data"  

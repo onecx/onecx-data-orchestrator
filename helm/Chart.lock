@@ -1,0 +1,9 @@
+dependencies:
+- name: helm-product
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.1.0
+- name: onecx-data-orchestrator-operator
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.3
+digest: sha256:1ec3166bb813b125f12836579f34766f35cd1337a61d9b7535add52bb721ac26
+generated: "2024-05-29T17:07:40.692705187+02:00"
