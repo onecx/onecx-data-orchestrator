@@ -1,0 +1,6 @@
+name: onecx-data-orchestrator
+title: Data orchestrator
+version: latest
+start_page: onecx-data-orchestrator:index.adoc
+nav:
+ - modules/onecx-data-orchestrator-operator/nav.adoc 
