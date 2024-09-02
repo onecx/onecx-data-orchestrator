@@ -1,2 +1,2 @@
 # onecx-data-orchestrator
-OneCx data orchestrator
+OneCX Data Orchestrator
