@@ -1,5 +1,7 @@
 deployment:
   operator: true 
+  bff: true
+  ui: true
 
 product:
   info:
