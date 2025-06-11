@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "Data orchestrator"
+      description: "Manage Kubernetes Custom Data Resources"
       imageUrl: ""
-      iconName: "palette"
-      displayName: "Data orchestrator"
-      basePath: "/data"  
+      iconName: "cog"
+      displayName: "Data Orchestrator"
+      basePath: "/data"
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]
