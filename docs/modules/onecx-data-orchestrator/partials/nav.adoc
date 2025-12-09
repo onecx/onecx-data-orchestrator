@@ -1,0 +1,7 @@
+* xref:documentation:onecx-data-orchestrator:index.adoc[Data orchestrator]
++
+include::documentation:onecx-data-orchestrator-ui:partial$nav.adoc[]
++
+include::documentation:onecx-data-orchestrator-bff:partial$nav.adoc[]
++
+include::documentation:onecx-data-orchestrator-operator:partial$nav.adoc[]
