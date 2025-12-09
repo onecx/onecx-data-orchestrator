@@ -1,1 +1,0 @@
-* xref:onecx-data-orchestrator:index.adoc[Data orchestrator]
