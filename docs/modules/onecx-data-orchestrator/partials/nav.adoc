@@ -1,4 +1,4 @@
-* xref:documentation:onecx-data-orchestrator:index.adoc[Data orchestrator]
+* xref:documentation:onecx-data-orchestrator:index.adoc[Data Orchestrator]
 +
 include::documentation:onecx-data-orchestrator-ui:partial$nav.adoc[]
 +
