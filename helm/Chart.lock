@@ -7,9 +7,9 @@ dependencies:
   version: 1.10.0-rc.11
 - name: onecx-data-orchestrator-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 1.8.0-rc.10
+  version: 1.8.0-rc.11
 - name: onecx-data-orchestrator-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.6.0-rc.11
-digest: sha256:b57ea6681b1bb74a5b7b6e66c7ddcae455ba1d06ce9e2ddb18b91dac5683515a
-generated: "2026-04-14T02:26:07.049491782Z"
+digest: sha256:2593b0afd471b53ae786acf6b855c244759ade11c2bdb51076021788b925e96f
+generated: "2026-04-14T10:49:16.910081908Z"
