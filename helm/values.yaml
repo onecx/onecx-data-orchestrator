@@ -9,7 +9,7 @@ product:
       description: "Manage Kubernetes Custom Data Resources"
       imageUrl: ""
       iconName: "cog"
-      displayName: "Data Orchestrator"
+      displayName: "OneCX Data Orchestrator"
       basePath: "/data"
       provider: "OneCX Team"
       classifications: [ "Administration" ]
